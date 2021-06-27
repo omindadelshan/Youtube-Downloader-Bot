@@ -11,7 +11,7 @@
     - Change configuration config.py  File
     - install dependencies
     - python3 -m bot
-    
+    t.me/sldragonmanaget 
 ## Thanks ❤️
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
