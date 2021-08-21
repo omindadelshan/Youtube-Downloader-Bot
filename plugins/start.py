@@ -11,7 +11,7 @@ async def start(client, message):
         [InlineKeyboardButton(
             "🎈Update Group 🎈" , url="https://t.me/sdbotworld")]
     ])
-    welcomed = f"👋Hello <b>{message.from_user.first_name}</b>\n/
+    welcomed = "👋Hello <b>{message.from_user.first_name}</b>\n/
 
 You are Warmly welcome to @YT_Downloader_SD_Bot 🇱🇰
 
